@@ -8,8 +8,8 @@ This repo contains my final project for BF550. In this project, I replicate two 
 - Creation of volcano plot from analyticaly determined significant parameters
 
 ## Repository Structure
-├── data/           # Processed datasets used for analysis and plot creation
-├── BF550_Project_2_Notebook.ipynb        # Jupyter notebook containing analaysis and creation of plots
+├── data/ # Processed datasets used for analysis and plot creation
+├── BF550_Project_2_Notebook.ipynb # Jupyter notebook containing analaysis and creation of plots
 ├── BF550_Project_2_Report.pdf # Report outlining introduction of the paper i used, my analysis processes, and results 
 └── README.md # Project documentation (this file)
 
