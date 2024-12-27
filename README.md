@@ -1,7 +1,7 @@
 # python_data_replication
 
 ## Overview
-This repo contains my final project for BF550. In this project, I replicate two figures for something et al using available data sets and report how it was done and the main findings from these figures.
+This repo contains my final project for BF550. In this project, I replicate two figures for Meng et al., 2024 using available data sets and report how it was done and the main findings from these figures.
 
 ## Features
 - Creation of UMAP plot from analyticaly determined significant parameters
